@@ -1,0 +1,69 @@
+
+/* Class = "IBUIBarButtonItem"; title = "Back"; ObjectID = "4CT-db-hoc"; */
+"4CT-db-hoc.title" = "Back";
+
+/* Class = "IBUINavigationItem"; title = "Scegli Striscione"; ObjectID = "7jE-rv-jhf"; */
+"7jE-rv-jhf.title" = "Scegli Striscione";
+
+/* Class = "IBUILabel"; text = "G"; ObjectID = "Ail-pr-tx6"; */
+"Ail-pr-tx6.text" = "G";
+
+/* Class = "IBUIBarButtonItem"; title = "Genera"; ObjectID = "G2K-oO-rfg"; */
+"G2K-oO-rfg.title" = "Genera";
+
+/* Class = "IBUINavigationItem"; title = "Impostazioni"; ObjectID = "IEw-ga-H6x"; */
+"IEw-ga-H6x.title" = "Impostazioni";
+
+/* Class = "IBUILabel"; text = "B"; ObjectID = "Qen-45-tfD"; */
+"Qen-45-tfD.text" = "B";
+
+/* Class = "IBUINavigationItem"; title = "Genera Striscione"; ObjectID = "UBM-dn-PuR"; */
+"UBM-dn-PuR.title" = "Genera Striscione";
+
+/* Class = "IBUITabBarItem"; title = "Striscioni"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Striscioni";
+
+/* Class = "IBUIBarButtonItem"; title = "Impostazioni"; ObjectID = "bS9-ei-aso"; */
+"bS9-ei-aso.title" = "Impostazioni";
+
+/* Class = "IBUITabBarItem"; title = "Info"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Info";
+
+/* Class = "IBUILabel"; text = "1°Riga"; ObjectID = "eBK-GT-Du1"; */
+"eBK-GT-Du1.text" = "1°Riga";
+
+/* Class = "IBUILabel"; text = "FORZA RAGAZZI!"; ObjectID = "hCR-Lo-Vts"; */
+"hCR-Lo-Vts.text" = "FORZA RAGAZZI!";
+
+/* Class = "IBUIBarButtonItem"; title = "Back"; ObjectID = "hzD-XU-mTG"; */
+"hzD-XU-mTG.title" = "Back";
+
+/* Class = "IBUILabel"; text = "3°Riga"; ObjectID = "k60-fi-8a6"; */
+"k60-fi-8a6.text" = "3°Riga";
+
+/* Class = "IBUIButton"; normalTitle = "Share"; ObjectID = "p7N-CL-6BO"; */
+"p7N-CL-6BO.normalTitle" = "Share";
+
+/* Class = "IBUINavigationItem"; title = "Anteprima Striscione"; ObjectID = "ppy-T4-P9K"; */
+"ppy-T4-P9K.title" = "Anteprima Striscione";
+
+/* Class = "IBUILabel"; text = "R"; ObjectID = "qrP-5c-t2v"; */
+"qrP-5c-t2v.text" = "R";
+
+/* Class = "IBUILabel"; text = "2°Riga"; ObjectID = "re2-Cc-QBd"; */
+"re2-Cc-QBd.text" = "2°Riga";
+
+/* Class = "IBUILabel"; text = "Scegli colore testo:"; ObjectID = "sat-j8-saR"; */
+"sat-j8-saR.text" = "Scegli colore testo:";
+
+/* Class = "IBUIBarButtonItem"; title = "Back"; ObjectID = "trn-M5-Lbj"; */
+"trn-M5-Lbj.title" = "Back";
+
+/* Class = "IBUIButton"; normalTitle = "Genera"; ObjectID = "uRs-E1-yqB"; */
+"uRs-E1-yqB.normalTitle" = "Genera";
+
+/* Class = "IBUIBarButtonItem"; title = "Salva"; ObjectID = "vGO-7x-dDv"; */
+"vGO-7x-dDv.title" = "Salva";
+
+/* Class = "IBUIButton"; normalTitle = "Reset"; ObjectID = "yR3-Jt-v5O"; */
+"yR3-Jt-v5O.normalTitle" = "Reset";

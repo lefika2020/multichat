@@ -1,0 +1,26 @@
+/*
+ Localizable.strings
+ striscioni
+ 
+ Created by GC  on 21/05/14.
+ Copyright (c) 2014 giulio caruso. All rights reserved.
+ */
+
+
+/*
+ UIActionSheet *actionSheet = [[UIActionSheet alloc]
+ initWithTitle:@"Scegli Funzione:"
+ delegate:self
+ cancelButtonTitle:@"Annulla"                                  destructiveButtonTitle:nil
+ otherButtonTitles:@"Salva Foto",@"Condivi Facebook",@"Condivi Twitter", nil];
+ actionSheet.actionSheetStyle = UIActionSheetStyleBlackOpaque;
+ [actionSheet showInView:self.view ];
+ 
+ */
+
+"ANN" = "Cancel";
+"SEL" = "Select Function:";
+"SAV" = "Save Photo";
+"FB" = "Share Facebook";
+"TW" = "Share Twitter";
+"APP" = "Generate Banner Stadium \n\nThanks this new app, you can create your banners and customizing the colors of the writing and also you can choose template between 9 different banners.\n\nYou can share the banner on Facebook, Twitter, Instagram, and you can save the banner in your photo album.";

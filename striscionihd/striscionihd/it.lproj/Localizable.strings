@@ -1,0 +1,26 @@
+/*
+ Localizable.strings
+ striscioni
+ 
+ Created by GC  on 21/05/14.
+ Copyright (c) 2014 giulio caruso. All rights reserved.
+ */
+
+
+/*
+ UIActionSheet *actionSheet = [[UIActionSheet alloc]
+ initWithTitle:@"Scegli Funzione:"
+ delegate:self
+ cancelButtonTitle:@"Annulla"                                  destructiveButtonTitle:nil
+ otherButtonTitles:@"Salva Foto",@"Condivi Facebook",@"Condivi Twitter", nil];
+ actionSheet.actionSheetStyle = UIActionSheetStyleBlackOpaque;
+ [actionSheet showInView:self.view ];
+ 
+ */
+
+"ANN" = "Annulla";
+"SEL" = "Scegli Funzione:";
+"SAV" = "Salva Foto";
+"FB" = "Condividi Facebook";
+"TW" = "Condividi Twitter";
+"APP" = "Genera Striscione Stadio\n\nGrazie a questa nuovissima app puoi creare i tuoi striscioni, personalizzando i colori delle scritte e inoltre hai la possibilità di scegliere tra 9 striscioni diversi.\n\nPuoi condividere lo striscione su Facebook,Twitter,Instagram e puoi scegliere se salvare lo striscione nel tuo album delle foto.";
